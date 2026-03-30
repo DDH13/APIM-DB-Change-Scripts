@@ -14,7 +14,7 @@ set -euo pipefail
 SCRIPT_VERSION="1.1.0"
 
 # Repository information
-REPO_OWNER="dakshina99"
+REPO_OWNER="DDH13"
 REPO_NAME="APIM-DB-Change-Scripts"
 REPO_URL="https://github.com/${REPO_OWNER}/${REPO_NAME}"
 BRANCH="main"
